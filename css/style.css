@@ -90,6 +90,7 @@ body {
 
 .play-board .food {
     background: #ff003d;
+    border-radius: 50%;
 }
 
 .play-board .head {

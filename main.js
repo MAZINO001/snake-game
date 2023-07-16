@@ -19,7 +19,7 @@ highScoreElement.innerText = `Hihg Score :${highScore}`;
 const handleGameOver = () => {
   // clearing the timer and reloading the game on game Over
   clearInterval(setIntervalId);
-  alert("Game Over Press OK to reply...");
+  alert("Game Over Press OK to reply....");
   location.reload();
 };
 const changeFoodPosition = () => {
