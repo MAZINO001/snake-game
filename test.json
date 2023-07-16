@@ -1,0 +1,11 @@
+{
+    "string": "mounir",
+    "number" : 100,
+    "object" : {
+        "morocco": "tangier",
+        "canada" : "tronto"
+    },
+    "array" : ["html","css","javascript"],
+    "boolean" : true,
+    "null" : null
+}
